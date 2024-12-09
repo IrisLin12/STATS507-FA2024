@@ -1,1 +1,1 @@
-This is a final projrct for stats507. 
+This is a final project for stats507. 
